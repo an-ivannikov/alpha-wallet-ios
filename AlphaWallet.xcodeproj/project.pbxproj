@@ -975,9 +975,9 @@
 		87D5BBD92727D9B20053E6D2 /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87D5BBD82727D9B20053E6D2 /* API.swift */; };
 		87D5BBDB2727DA7B0053E6D2 /* EnjinToken.graphql in Resources */ = {isa = PBXBuildFile; fileRef = 87D5BBDA2727DA7B0053E6D2 /* EnjinToken.graphql */; };
 		87D6E5D4278DBB7400B9DEE3 /* Device.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87D6E5D3278DBB7400B9DEE3 /* Device.swift */; };
-		87D6E5DF2791934D00B9DEE3 /* DeepLink.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87D6E5DE2791934D00B9DEE3 /* DeepLink.swift */; };
 		87D6E5DB27901A0200B9DEE3 /* AnalyticsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87D6E5DA27901A0200B9DEE3 /* AnalyticsViewController.swift */; };
 		87D6E5DD2790320500B9DEE3 /* AnalyticsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87D6E5DC2790320500B9DEE3 /* AnalyticsViewModel.swift */; };
+		87D6E5DF2791934D00B9DEE3 /* DeepLink.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87D6E5DE2791934D00B9DEE3 /* DeepLink.swift */; };
 		87D7326727636D7E00375C18 /* TransferCollectiblesCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87D7326627636D7E00375C18 /* TransferCollectiblesCoordinator.swift */; };
 		87D732692763E59700375C18 /* FungiblesTransactionAmount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87D732682763E59700375C18 /* FungiblesTransactionAmount.swift */; };
 		87D847452744EFA300EDBA80 /* JSONRPC_2_0.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87D847442744EFA300EDBA80 /* JSONRPC_2_0.swift */; };
@@ -1128,6 +1128,7 @@
 		02F4E8BD27717A1500D89C19 /* SaveCustomRpcBrowseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaveCustomRpcBrowseViewController.swift; sourceTree = "<group>"; };
 		02F4E8BF27717A5200D89C19 /* SaveCustomRpcBrowseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaveCustomRpcBrowseView.swift; sourceTree = "<group>"; };
 		02F4E8C32771C07500D89C19 /* SaveCustomRpcBrowseDataController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaveCustomRpcBrowseDataController.swift; sourceTree = "<group>"; };
+		0B2828D3279EBACA00E3B847 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
 		0B5A03D1E5E417FE79607D0F /* Pods_AlphaWallet.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AlphaWallet.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		120A2B8C48180E93DBCCC2EE /* Pods-AlphaWalletUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AlphaWalletUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-AlphaWalletUITests/Pods-AlphaWalletUITests.release.xcconfig"; sourceTree = "<group>"; };
 		290B2B551F8F50030053C83E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
@@ -2067,9 +2068,9 @@
 		87D5BBDA2727DA7B0053E6D2 /* EnjinToken.graphql */ = {isa = PBXFileReference; lastKnownFileType = text; path = EnjinToken.graphql; sourceTree = "<group>"; };
 		87D5BBDC2727DCB40053E6D2 /* EnjinBalances.graphql */ = {isa = PBXFileReference; lastKnownFileType = text; path = EnjinBalances.graphql; sourceTree = "<group>"; };
 		87D6E5D3278DBB7400B9DEE3 /* Device.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Device.swift; sourceTree = "<group>"; };
-		87D6E5DE2791934D00B9DEE3 /* DeepLink.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeepLink.swift; sourceTree = "<group>"; };
 		87D6E5DA27901A0200B9DEE3 /* AnalyticsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnalyticsViewController.swift; sourceTree = "<group>"; };
 		87D6E5DC2790320500B9DEE3 /* AnalyticsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnalyticsViewModel.swift; sourceTree = "<group>"; };
+		87D6E5DE2791934D00B9DEE3 /* DeepLink.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeepLink.swift; sourceTree = "<group>"; };
 		87D7326627636D7E00375C18 /* TransferCollectiblesCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransferCollectiblesCoordinator.swift; sourceTree = "<group>"; };
 		87D732682763E59700375C18 /* FungiblesTransactionAmount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FungiblesTransactionAmount.swift; sourceTree = "<group>"; };
 		87D847442744EFA300EDBA80 /* JSONRPC_2_0.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSONRPC_2_0.swift; sourceTree = "<group>"; };
@@ -6705,6 +6706,7 @@
 				7721A6BF202B1D3E004DB16C /* zh-Hans */,
 				B1CCA9D1215B615A0000FBF7 /* ja */,
 				B1CCA9D2215B61620000FBF7 /* ko */,
+				0B2828D3279EBACA00E3B847 /* ru */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
